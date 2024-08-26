@@ -8,7 +8,7 @@
 
 Este projeto é um aplicativo de CRUD de comércio com **Ionic 3** e **Node.js 10.24.1**. Ele permite adicionar, editar, listar e excluir produtos de uma base de dados. 
 
-![Logo do Projeto](aplicativo1.png)
+![Logo do Projeto](aplicativo1.PNG)
 
 ## 🛠️ Tecnologias Utilizadas
 
